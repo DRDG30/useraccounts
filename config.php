@@ -4,5 +4,5 @@ $db_user = "root";
 $db_pass = "";
 $db_name = "useraccounts";
 
-sasas
+burado na
 ?>
